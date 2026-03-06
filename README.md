@@ -15,9 +15,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse em 
 ## 💻 Tecnologias e Ferramentas
 
 - 🔹 **Linguagens:** Python, SQL, HTML, CSS, JavaScript (básico)
-- 🔹 **Frameworks:** Flask
+- 🔹 **Frameworks:** Flask, FastAPI, Django (básico)
 - 🔹 **Banco de Dados:** SQLite
-- 🔹 **Ferramentas:** Git, GitHub, VS Code, Postman
+- 🔹 **Ferramentas:** Git, GitHub, Pycharm, Postman
 
 ---
 
