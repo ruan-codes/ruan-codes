@@ -34,16 +34,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com grande interesse
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/ruan-codes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-codes&show_icons=true&theme=dark&include_all_commits=true&cont_private=true" alt="Estatísticas do GitHub do Ruan"/>
-  </a>
-  <a href="https://github.com/ruan-codes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-codes&layout=compact&langs_count=8&theme=dark" alt="Linguagens mais usadas pelo Ruan"/>
-  </a>
-</div>
-
----
