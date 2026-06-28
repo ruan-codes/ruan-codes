@@ -2,9 +2,10 @@
 
 ### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Desenvolvedor Python (Backend)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-oliveira-338659325/)
-
 ---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-codes) 
 
 ## 📌 Sobre Mim
 
@@ -31,6 +32,12 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com grande interesse
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ruan-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ruan-codes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ruan-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
