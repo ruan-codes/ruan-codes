@@ -1,47 +1,72 @@
-# Olá! Eu sou o Ruan Lima Oliveira 👋
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 🐍 Desenvolvedor Python (Backend)
+<div align="center">
 
----
+# Olá, eu sou o Ruan Oliveira 👋
 
-## 🌐 Socials:
+**Desenvolvedor Back-end Python** · Estudante de Análise e Desenvolvimento de Sistemas
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=520&lines=APIs+REST;Sistemas+web+com+Django;Buscando+minha+primeira+vaga+back-end+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-codes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan030808@gmail.com)
 
----
-
-## 📌 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento backend** usando **Python**. Tenho me dedicado a construir APIs robustas, entender boas práticas de arquitetura de software e versionamento de código.
-
-Atualmente, estou **em busca da minha primeira oportunidade como desenvolvedor backend**, e tenho me dedicado a projetos práticos para aplicar o que aprendo no dia a dia.
-
-* 🔭 Atualmente focando em aprofundar meus conhecimentos no ecossistema Python (FastAPI, Flask, Django).
-* 🌱 Aprendendo continuamente sobre arquitetura backend, bancos de dados e APIs REST.
-* 💬 Aberto a oportunidades, parcerias em projetos open source e trocas sobre Python/backend.
+</div>
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 📌 Sobre mim
 
-### Linguagens
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **back-end com Python**. Gosto de transformar problemas reais em sistemas simples de usar — do controle de ocorrências de uma escola a um dashboard de logística.
 
-### Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- 🔭 Aprofundando no ecossistema Python: **Django, Flask e FastAPI**
+- 🌱 Estudando arquitetura back-end, bancos de dados relacionais e boas práticas de APIs REST
+- 💼 **Aberto à minha primeira oportunidade como desenvolvedor back-end** (estágio ou júnior)
+- 💬 Bora trocar ideia sobre Python, back-end ou projetos open source!
 
-### Ferramentas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 💻 Tecnologias
+
+<div align="center">
+
+**Back-end**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**Dados & Banco**<br/>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Front-end**<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Ferramentas**<br/>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-![Estatísticas do GitHub de ruan-codes](https://github-readme-stats.shion.dev/api?username=ruan-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Sequência de contribuições do GitHub de ruan-codes](https://streak-stats.demolab.com/?user=ruan-codes&theme=dark&hide_border=false)<br/>
-![Linguagens mais usadas por ruan-codes](https://github-readme-stats.shion.dev/api/top-langs/?username=ruan-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=ruan-codes&theme=tokyonight&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de ruan-codes"/>
+
+<img src="https://streak-stats.demolab.com/?user=ruan-codes&theme=tokyonight&hide_border=true" alt="Sequência de contribuições de ruan-codes"/>
+
+</div>
+
+---
+
+</div>
